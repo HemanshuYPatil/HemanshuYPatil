@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/eraydmrcoglu">
-  <img height="180em" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=eraydmrcoglu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=hemanshu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraydmrcoglu&theme=algolia&layout=compact"/>
 </div>
 
@@ -32,9 +32,9 @@
 <br>
 
 <div align="center">
-  <a href="https://eray-demircioglu-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eraydemircioglu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/eraydmrcoglu_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://hemanshu-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/patilhemanshu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/PatilHemanshu28" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
