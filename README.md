@@ -89,7 +89,7 @@
 
   <!-- Big trophy card, dark neutral theme [web:7][web:27] -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=HemanshuYPatil&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=HemanshuYPatil&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
     height="180"
     alt="GitHub profile trophies"
   />
