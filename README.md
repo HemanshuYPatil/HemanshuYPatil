@@ -1,92 +1,142 @@
-<h1 align="center">Hi 👋, I'm Hemanshu Patil</h1>
+<div align="center">
+  
+# 👋 Hi, I'm Hemanshu Patil
 
-###
+### Software Developer | Building Modern Applications | AI & Cloud Integration Specialist
 
-<h5 align="center">A software developer passionate about creating well-crafted frontend and backend experiences.</h5>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Building+scalable+applications;Passionate+about+clean+code;Always+learning+new+tech" alt="Typing SVG" />
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patilhemanshu/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patilhemanshu28)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hemanshu._.06)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hemanshu-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanshuypatil@gmail.com)
 
-<br clear="both">
+![Profile Views](https://komarev.com/ghpvc/?username=HemanshuYPatil&color=blueviolet&style=for-the-badge)
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HemanshuYPatil.HemanshuYPatil&"  />
 </div>
 
-###
+---
 
-<p align="left">•   📫 How to reach me hemanshuypatil@gmail.com</p>
+## 🚀 About Me
 
-###
+```typescript
+const hemanshu = {
+    location: "Nashik, Maharashtra, India",
+    role: "Software Developer",
+    code: ["JavaScript", "TypeScript", "Python", "Dart", "SQL"],
+    technologies: {
+        frontend: ["React", "Next.js", "Angular", "Svelte", "Tailwind CSS", "Redux"],
+        mobile: ["Flutter", "React Native", "Expo"],
+        backend: ["Node.js", "Express", "FastAPI", "NestJS"],
+        databases: ["MongoDB", "PostgreSQL", "Firebase", "Redis", "Supabase"],
+        realtime: ["Convex", "Socket.io", "Firebase Realtime DB"],
+        cloud: ["AWS", "Google Cloud", "Appwrite", "Vercel", "Netlify"],
+        ai_tools: ["OpenAI API", "Anthropic Claude", "LangChain", "Hugging Face"],
+        devOps: ["Docker", "Git", "GitHub Actions", "CI/CD", "Nginx"]
+    },
+    currentFocus: "Building AI-powered applications and scalable cloud solutions",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+---
+
+## 💼 Technical Skills
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/patilhemanshu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/patilhemanshu28" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/hemanshu._.06" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://hemanshu-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=VISIT%20SITE&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
+
+### Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-FF6B6B?style=for-the-badge&logo=convex&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="60" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="60" alt="svelte logo"  />
-</div>
-
-###
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HemanshuYPatil&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=HemanshuYPatil&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HemanshuYPatil&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HemanshuYPatil&show_icons=true&theme=onedark&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanshuYPatil&layout=compact&theme=onedark&hide_border=true" height="180" alt="languages graph" />
 </div>
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HemanshuYPatil&theme=onedark&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<img src="./github-user-contribution.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HemanshuYPatil&theme=one-dark&hide_border=true" alt="Contribution Graph" />
+</div>
 
-###
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HemanshuYPatil&theme=onedark&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Working on **AI-powered applications** with Next.js and React
+- 🌱 Learning **advanced AI integration** and **cloud architecture**
+- 👯 Open to collaborate on **innovative open-source projects**
+- 💬 Ask me about **React, Next.js, Node.js, Flutter, AI APIs**
+- ⚡ Fun fact: **Coffee + Code = Magic** ☕️
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  
+### 💻 "Code is like humor. When you have to explain it, it's bad." 
+
+**Thanks for visiting! Let's connect and build something amazing together!** 🚀
+
+</div>
